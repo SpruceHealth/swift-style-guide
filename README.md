@@ -15,7 +15,7 @@ then open a pull request. :zap:
 
 #### Whitespace
 
- * Tabs, not spaces.
+ * ~~Tabs, not spaces.~~ 4 spaces, no tabs. (we may revisit this later if it becomes easier to have different settings for Swift and Obj-C within the same project)
  * End files with a newline.
  * Make liberal use of vertical whitespace to divide code into logical chunks.
  * Don’t leave trailing whitespace.
